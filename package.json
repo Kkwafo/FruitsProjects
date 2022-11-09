@@ -1,0 +1,18 @@
+{
+  "name": "fruitsprojects",
+  "version": "1.0.0",
+  "description": "Proyect No-SQL Database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kkwafo/FruitsProjects.git"
+  },
+  "keywords": [
+    "MongoDB"
+  ],
+  "author": "Kofi Kwafo Awua",
+  "license": "ISC"
+}
